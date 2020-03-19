@@ -1,4 +1,4 @@
 # MAOKG
 computer graphics
 
-Варіант 8
+# Anna Zavhorodnia - KP-72, variant - 8
